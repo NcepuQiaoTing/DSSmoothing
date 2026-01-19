@@ -2,4 +2,4 @@ DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Lan
 -
 
 
-The code is coming soon
+The code is coming soon.
